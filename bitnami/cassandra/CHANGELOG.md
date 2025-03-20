@@ -4,6 +4,10 @@
 
 * [bitnami/cassandra] Cassandra dynamic seed discovery ([#32464](https://github.com/bitnami/charts/pull/32464))
 
+## 12.2.2 (2025-03-12)
+
+* [bitnami/cassandra] bugfix #32369 ([#32415](https://github.com/bitnami/charts/pull/32415))
+
 ## <small>12.2.1 (2025-03-05)</small>
 
 * [bitnami/cassandra] Release 12.2.1 (#32322) ([5543930](https://github.com/bitnami/charts/commit/554393025cd9165c851b4b139c1ec5bf012fc4e5)), closes [#32322](https://github.com/bitnami/charts/issues/32322)
