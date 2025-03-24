@@ -2,7 +2,9 @@
 
 ## 34.2.2 (2025-03-15)
 
-* bitnami/spring-cloud-dataflow fix for #32453 ([#32456](https://github.com/bitnami/charts/pull/32456))
+* [bitnami/spring-cloud-dataflow] fix for #32453 ([#32456](https://github.com/bitnami/charts/pull/32456))
+* [bitnami/spring-cloud-dataflow] fix incorrect application of externalDatabase.skipper.password value ([#32251](https://github.com/bitnami/charts/pull/32251))
+
 
 ## <small>34.2.1 (2025-03-02)</small>
 

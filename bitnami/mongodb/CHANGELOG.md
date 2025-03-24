@@ -1,8 +1,17 @@
 # Changelog
 
-## 16.4.7 (2025-03-11)
+## 16.4.9 (2025-03-24)
 
-* [bitnami/mongodb] Update dns-check init container condition ([#32394](https://github.com/bitnami/charts/pull/32394))
+* [bitnami/mongodb] #27482 - fix replicaset config handling ([#32381](https://github.com/bitnami/charts/pull/32381))
+
+## <small>16.4.8 (2025-03-21)</small>
+
+* [bitnami/*] Add tanzuCategory annotation (#32409) ([a8fba5c](https://github.com/bitnami/charts/commit/a8fba5cb01f6f4464ca7f69c50b0fbe97d837a95)), closes [#32409](https://github.com/bitnami/charts/issues/32409)
+* [bitnami/mongodb] Release 16.4.8 (#32551) ([07d0b66](https://github.com/bitnami/charts/commit/07d0b664ed13ac2388db93f4369597948f16ee25)), closes [#32551](https://github.com/bitnami/charts/issues/32551)
+
+## <small>16.4.7 (2025-03-12)</small>
+
+* [bitnami/mongodb] Update dns-check init container condition (#32394) ([430e759](https://github.com/bitnami/charts/commit/430e7599e01ab720e67cc6f0fb5098704434ef28)), closes [#32394](https://github.com/bitnami/charts/issues/32394)
 
 ## <small>16.4.6 (2025-03-10)</small>
 
